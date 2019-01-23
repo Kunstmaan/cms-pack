@@ -15,6 +15,6 @@
         "kunstmaan/seo-bundle": "^5.2",
         "kunstmaan/sitemap-bundle": "^5.2",
         "kunstmaan/translator-bundle": "^5.2",
-        "kunstmaan/usermanagement-bundle": "^5.2"
+        "kunstmaan/user-management-bundle": "^5.2"
     }
 }
