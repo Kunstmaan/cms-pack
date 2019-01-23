@@ -9,7 +9,7 @@
         "kunstmaan/adminlist-bundle": "^5.2",
         "kunstmaan/form-bundle": "^5.2",
         "kunstmaan/media-bundle": "^5.2",
-        "kunstmaan/mediapagepart-bundle": "^5.2",
+        "kunstmaan/media-pagepart-bundle": "^5.2",
         "kunstmaan/node-bundle": "^5.2",
         "kunstmaan/pagepart-bundle": "^5.2",
         "kunstmaan/seo-bundle": "^5.2",
