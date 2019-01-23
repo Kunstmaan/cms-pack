@@ -1,0 +1,20 @@
+{
+    "name": "kunstmaan/cms-pack",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "description": "A pack for KunstmaanCMS",
+    "require": {
+        "php": "^7.1",
+        "kunstmaan/admin-bundle": "^5.2",
+        "kunstmaan/adminlist-bundle": "^5.2",
+        "kunstmaan/form-bundle": "^5.2",
+        "kunstmaan/media-bundle": "^5.2",
+        "kunstmaan/mediapagepart-bundle": "^5.2",
+        "kunstmaan/node-bundle": "^5.2",
+        "kunstmaan/pagepart-bundle": "^5.2",
+        "kunstmaan/seo-bundle": "^5.2",
+        "kunstmaan/sitemap-bundle": "^5.2",
+        "kunstmaan/translator-bundle": "^5.2",
+        "kunstmaan/usermanagement-bundle": "^5.2"
+    }
+}
